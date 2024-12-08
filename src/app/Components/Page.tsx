@@ -1,0 +1,3 @@
+function MyName(params:type) {
+    
+}
